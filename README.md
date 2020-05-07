@@ -9,4 +9,4 @@ He wrote this beautiful peice of code and shared it [here](http://web.archive.or
 Then an anonymous user also created code for python3x which can be downloaded [here](http://web.archive.org/web/20131017130434/http://www.jejik.com/files/examples/daemon3x.py)
 
 
-You can find examples on how to deamonize your process in the examples directory.
+You can find examples on how to deamonize your process as daemon*x_example.py
